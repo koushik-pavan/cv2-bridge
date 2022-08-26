@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="folder name" type="<filename.py" name="load_image"  output="screen">
+    </node>
+</launch>
