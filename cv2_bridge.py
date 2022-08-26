@@ -10,7 +10,8 @@ import cv2
 class LoadImage(object):
 
     def __init__(self):
-    
+        
+        #edit the image topic
         self.image_sub = rospy.Subscriber("/camera/rgb/image_raw",Image,self.camera_callback)
         self.bridge_object = CvBridge()
 
