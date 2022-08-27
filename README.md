@@ -6,5 +6,5 @@
 4.make sure to edit the image topic in the code according to the topic published by the bot<br>
 5.run "chmod +x <filename>.py" to make it executable.<br>
 6.in the same folder create a new launch file (<filename.launch>) and copy the code in bridge.launch file .<br>
-7.now run "roslaunch <your folder> <filename.launch>".<br>
+7.now run "roslaunch <folder name> <filename.launch>".<br>
 8.a new dialog box showing the python image appears.<br>
